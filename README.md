@@ -39,5 +39,5 @@ O código foi implementado em **C** utilizando as bibliotecas do **Pico SDK**. A
 
 ## Vídeo Demonstração
 
-Você pode visualizar a demonstração do código e o funcionamento do servomotor aqui:
+Você pode visualizar a demonstração do código e o funcionamento do servomotor aqui: https://drive.google.com/file/d/1OzOo4JUZeAVrPtSjhfcTB8dyH3IOeO1r/view?usp=sharing
 
